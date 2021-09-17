@@ -8,7 +8,7 @@ driver = webdriver.Chrome('[..]/chromedriver')
 Timer = 10
 
 # url of video to view
-link = 'https://www.youtube.com/watch?v=wTcNtgA6gHs'
+link = 'https://youtu.be/eZHbx1c-tCI'
 
 # number of views to achieve
 views = 5
