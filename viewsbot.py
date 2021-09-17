@@ -11,7 +11,7 @@ Timer = 10
 link = 'https://youtu.be/eZHbx1c-tCI'
 
 # number of views to achieve
-views = 5
+views = 1000
 
 driver.get(link)
 
